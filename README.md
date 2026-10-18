@@ -1,3 +1,19 @@
-# Dual accreditation workspace
+# منصة متابعة معايير الجودة - النسخة المعاد بناؤها
 
-The landing page separates Institutional Accreditation and Program Accreditation. Each workspace has its own localStorage key, tasks, members, evidence, gaps, meetings, checklists, import, and export. Program data retains T01–T30 and embedded Excel matrices. Institutional data provides an editable starter workflow until the approved institutional task list is supplied.
+## مساحتا العمل
+- الاعتماد المؤسسي: المعيار 7، المعايير الأكاديمية والبرامج التعليمية، 6 مؤشرات.
+- الاعتماد البرامجي: المعيار P2، تصميم البرنامج، 8 مؤشرات.
+
+## المرجعية
+- معايير الاعتماد المؤسسي إصدار 2015 المعدل.
+- معايير الاعتماد البرامجي إصدار 2022 المعدل.
+- نماذج توصيف البرنامج والمقرر إصدار 2025.
+- المصدر: صفحة إصدارات ونماذج التعليم العالي بموقع الهيئة القومية لضمان جودة التعليم والاعتماد.
+- تاريخ التحقق: 19 أكتوبر 2026.
+
+## التشغيل
+شغّل خادمًا محليًا داخل المجلد، مثل: `python3 -m http.server 8000` ثم افتح `http://localhost:8000`.
+يمكن رفع محتويات المجلد مباشرة إلى GitHub Pages.
+
+## ملاحظة
+المهام التشغيلية منظّمة مؤشرًا بمؤشر، وقائمة الأدلة قابلة للتحويل تلقائيًا إلى Checklist داخل الموقع.
