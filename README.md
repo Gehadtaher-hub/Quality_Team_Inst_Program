@@ -17,3 +17,6 @@
 
 ## ملاحظة
 المهام التشغيلية منظّمة مؤشرًا بمؤشر، وقائمة الأدلة قابلة للتحويل تلقائيًا إلى Checklist داخل الموقع.
+
+## Guided Workflow V4
+Every task now uses expandable numbered steps, fixed dropdowns, and completion checkboxes. No manual text is required inside task workflows. Progress and status are calculated automatically.
