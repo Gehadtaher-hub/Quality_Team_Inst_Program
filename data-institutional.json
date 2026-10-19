@@ -91,8 +91,7 @@
         "سجل مراجعة اكتمال الحصر",
         "سجل ربط الأدلة بالرقم I7.1-T01",
         "رابط النسخة النهائية الخاصة بالمهمة I7.1-T01"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_1-T01_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.1-T02",
@@ -129,8 +128,7 @@
         "بطاقة ضبط الإصدار والنسخة",
         "سجل ربط الأدلة بالرقم I7.1-T02",
         "رابط النسخة النهائية الخاصة بالمهمة I7.1-T02"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_1-T02_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.1-T03",
@@ -167,8 +165,7 @@
         "تقرير النتائج والفجوات والتوصيات",
         "سجل ربط الأدلة بالرقم I7.1-T03",
         "رابط النسخة النهائية الخاصة بالمهمة I7.1-T03"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_1-T03_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.1-T04",
@@ -206,8 +203,7 @@
         "محضر المناقشة والقرارات",
         "سجل ربط الأدلة بالرقم I7.1-T04",
         "رابط النسخة النهائية الخاصة بالمهمة I7.1-T04"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_1-T04_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.1-T05",
@@ -245,8 +241,7 @@
         "مستخرج قرار الاعتماد",
         "سجل ربط الأدلة بالرقم I7.1-T05",
         "رابط النسخة النهائية الخاصة بالمهمة I7.1-T05"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_1-T05_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.1-T06",
@@ -283,8 +278,7 @@
         "سجل مراجعة اكتمال الحصر",
         "سجل ربط الأدلة بالرقم I7.1-T06",
         "رابط النسخة النهائية الخاصة بالمهمة I7.1-T06"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_1-T06_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.2-T01",
@@ -322,8 +316,7 @@
         "مستخرج قرار الاعتماد",
         "سجل ربط الأدلة بالرقم I7.2-T01",
         "رابط النسخة النهائية الخاصة بالمهمة I7.2-T01"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_2-T01_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.2-T02",
@@ -361,8 +354,7 @@
         "تقرير التحليل والتوصيات",
         "سجل ربط الأدلة بالرقم I7.2-T02",
         "رابط النسخة النهائية الخاصة بالمهمة I7.2-T02"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_2-T02_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.2-T03",
@@ -400,8 +392,7 @@
         "تقرير التحليل والتوصيات",
         "سجل ربط الأدلة بالرقم I7.2-T03",
         "رابط النسخة النهائية الخاصة بالمهمة I7.2-T03"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_2-T03_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.2-T04",
@@ -439,8 +430,7 @@
         "تقرير النتائج وفرص التطوير",
         "سجل ربط الأدلة بالرقم I7.2-T04",
         "رابط النسخة النهائية الخاصة بالمهمة I7.2-T04"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_2-T04_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.2-T05",
@@ -477,8 +467,7 @@
         "تقرير النتائج والفجوات والتوصيات",
         "سجل ربط الأدلة بالرقم I7.2-T05",
         "رابط النسخة النهائية الخاصة بالمهمة I7.2-T05"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_2-T05_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.2-T06",
@@ -516,8 +505,7 @@
         "محضر أو قرار اعتماد الناتج",
         "سجل ربط الأدلة بالرقم I7.2-T06",
         "رابط النسخة النهائية الخاصة بالمهمة I7.2-T06"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_2-T06_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.2-T07",
@@ -555,8 +543,7 @@
         "مستخرج قرار الاعتماد",
         "سجل ربط الأدلة بالرقم I7.2-T07",
         "رابط النسخة النهائية الخاصة بالمهمة I7.2-T07"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_2-T07_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.2-T08",
@@ -594,8 +581,7 @@
         "تقرير مقارنة النتائج والاستنتاجات",
         "سجل ربط الأدلة بالرقم I7.2-T08",
         "رابط النسخة النهائية الخاصة بالمهمة I7.2-T08"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_2-T08_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.3-T01",
@@ -632,8 +618,7 @@
         "سجل مراجعة اكتمال الحصر",
         "سجل ربط الأدلة بالرقم I7.3-T01",
         "رابط النسخة النهائية الخاصة بالمهمة I7.3-T01"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_3-T01_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.3-T02",
@@ -672,8 +657,7 @@
         "محضر إغلاق الملاحظات",
         "سجل ربط الأدلة بالرقم I7.3-T02",
         "رابط النسخة النهائية الخاصة بالمهمة I7.3-T02"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_3-T02_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.3-T03",
@@ -712,8 +696,7 @@
         "محضر إغلاق الملاحظات",
         "سجل ربط الأدلة بالرقم I7.3-T03",
         "رابط النسخة النهائية الخاصة بالمهمة I7.3-T03"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_3-T03_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.3-T04",
@@ -750,8 +733,7 @@
         "تقرير النتائج والفجوات والتوصيات",
         "سجل ربط الأدلة بالرقم I7.3-T04",
         "رابط النسخة النهائية الخاصة بالمهمة I7.3-T04"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_3-T04_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.3-T05",
@@ -790,8 +772,7 @@
         "دليل إعلان النسخة المعتمدة",
         "سجل ربط الأدلة بالرقم I7.3-T05",
         "رابط النسخة النهائية الخاصة بالمهمة I7.3-T05"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_3-T05_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.4-T01",
@@ -828,8 +809,7 @@
         "سجل مراجعة اكتمال الحصر",
         "سجل ربط الأدلة بالرقم I7.4-T01",
         "رابط النسخة النهائية الخاصة بالمهمة I7.4-T01"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_4-T01_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.4-T02",
@@ -867,8 +847,7 @@
         "محضر المراجعة الفنية للمصفوفة",
         "سجل ربط الأدلة بالرقم I7.4-T02",
         "رابط النسخة النهائية الخاصة بالمهمة I7.4-T02"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_4-T02_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.4-T03",
@@ -907,8 +886,7 @@
         "محضر إغلاق الملاحظات",
         "سجل ربط الأدلة بالرقم I7.4-T03",
         "رابط النسخة النهائية الخاصة بالمهمة I7.4-T03"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_4-T03_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.4-T04",
@@ -946,8 +924,7 @@
         "محضر أو قرار اعتماد الناتج",
         "سجل ربط الأدلة بالرقم I7.4-T04",
         "رابط النسخة النهائية الخاصة بالمهمة I7.4-T04"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_4-T04_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.4-T05",
@@ -985,8 +962,7 @@
         "محضر أو قرار اعتماد الناتج",
         "سجل ربط الأدلة بالرقم I7.4-T05",
         "رابط النسخة النهائية الخاصة بالمهمة I7.4-T05"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_4-T05_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.4-T06",
@@ -1023,8 +999,7 @@
         "تقرير النتائج والفجوات والتوصيات",
         "سجل ربط الأدلة بالرقم I7.4-T06",
         "رابط النسخة النهائية الخاصة بالمهمة I7.4-T06"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_4-T06_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.4-T07",
@@ -1062,8 +1037,7 @@
         "مستخرج قرار الاعتماد",
         "سجل ربط الأدلة بالرقم I7.4-T07",
         "رابط النسخة النهائية الخاصة بالمهمة I7.4-T07"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_4-T07_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.5-T01",
@@ -1101,8 +1075,7 @@
         "مستخرج قرار الاعتماد",
         "سجل ربط الأدلة بالرقم I7.5-T01",
         "رابط النسخة النهائية الخاصة بالمهمة I7.5-T01"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_5-T01_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.5-T02",
@@ -1140,8 +1113,7 @@
         "قرار اعتماد الخطة",
         "سجل ربط الأدلة بالرقم I7.5-T02",
         "رابط النسخة النهائية الخاصة بالمهمة I7.5-T02"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_5-T02_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.5-T03",
@@ -1179,8 +1151,7 @@
         "قرار التكليف",
         "سجل ربط الأدلة بالرقم I7.5-T03",
         "رابط النسخة النهائية الخاصة بالمهمة I7.5-T03"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_5-T03_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.5-T04",
@@ -1218,8 +1189,7 @@
         "تقرير المتابعة والانحرافات",
         "سجل ربط الأدلة بالرقم I7.5-T04",
         "رابط النسخة النهائية الخاصة بالمهمة I7.5-T04"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_5-T04_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.5-T05",
@@ -1256,8 +1226,7 @@
         "تقرير النتائج والفجوات والتوصيات",
         "سجل ربط الأدلة بالرقم I7.5-T05",
         "رابط النسخة النهائية الخاصة بالمهمة I7.5-T05"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_5-T05_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.5-T06",
@@ -1295,8 +1264,7 @@
         "تحقق المراجع من الإغلاق",
         "سجل ربط الأدلة بالرقم I7.5-T06",
         "رابط النسخة النهائية الخاصة بالمهمة I7.5-T06"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_5-T06_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.6-T01",
@@ -1333,8 +1301,7 @@
         "سجل مراجعة اكتمال الحصر",
         "سجل ربط الأدلة بالرقم I7.6-T01",
         "رابط النسخة النهائية الخاصة بالمهمة I7.6-T01"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_6-T01_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.6-T02",
@@ -1373,8 +1340,7 @@
         "محضر إغلاق الملاحظات",
         "سجل ربط الأدلة بالرقم I7.6-T02",
         "رابط النسخة النهائية الخاصة بالمهمة I7.6-T02"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_6-T02_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.6-T03",
@@ -1412,8 +1378,7 @@
         "محضر مراجعة واعتماد التقرير",
         "سجل ربط الأدلة بالرقم I7.6-T03",
         "رابط النسخة النهائية الخاصة بالمهمة I7.6-T03"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_6-T03_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.6-T04",
@@ -1450,8 +1415,7 @@
         "تقرير النتائج والفجوات والتوصيات",
         "سجل ربط الأدلة بالرقم I7.6-T04",
         "رابط النسخة النهائية الخاصة بالمهمة I7.6-T04"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_6-T04_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.6-T05",
@@ -1489,8 +1453,7 @@
         "محضر أو قرار اعتماد الناتج",
         "سجل ربط الأدلة بالرقم I7.6-T05",
         "رابط النسخة النهائية الخاصة بالمهمة I7.6-T05"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_6-T05_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.6-T06",
@@ -1528,8 +1491,7 @@
         "مستخرج قرار الاعتماد",
         "سجل ربط الأدلة بالرقم I7.6-T06",
         "رابط النسخة النهائية الخاصة بالمهمة I7.6-T06"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_6-T06_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.6-T07",
@@ -1567,8 +1529,7 @@
         "تقرير المتابعة والانحرافات",
         "سجل ربط الأدلة بالرقم I7.6-T07",
         "رابط النسخة النهائية الخاصة بالمهمة I7.6-T07"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_6-T07_Evidence_Template.docx"
+      ]
     },
     {
       "id": "I7.6-T08",
@@ -1606,8 +1567,7 @@
         "محضر أو قرار اعتماد الناتج",
         "سجل ربط الأدلة بالرقم I7.6-T08",
         "رابط النسخة النهائية الخاصة بالمهمة I7.6-T08"
-      ],
-      "evidenceTemplate": "evidence_templates/I7_6-T08_Evidence_Template.docx"
+      ]
     }
   ],
   "members": [
