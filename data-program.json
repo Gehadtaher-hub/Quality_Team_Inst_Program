@@ -109,7 +109,8 @@
         "بطاقة ضبط الإصدار والنسخة",
         "سجل ربط الأدلة بالرقم P2.1-T01",
         "رابط النسخة النهائية الخاصة بالمهمة P2.1-T01"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_1-T01_Evidence_Template.docx"
     },
     {
       "id": "P2.1-T02",
@@ -146,7 +147,8 @@
         "تقرير النتائج والفجوات والتوصيات",
         "سجل ربط الأدلة بالرقم P2.1-T02",
         "رابط النسخة النهائية الخاصة بالمهمة P2.1-T02"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_1-T02_Evidence_Template.docx"
     },
     {
       "id": "P2.1-T03",
@@ -184,7 +186,8 @@
         "محضر المراجعة الفنية للمصفوفة",
         "سجل ربط الأدلة بالرقم P2.1-T03",
         "رابط النسخة النهائية الخاصة بالمهمة P2.1-T03"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_1-T03_Evidence_Template.docx"
     },
     {
       "id": "P2.1-T04",
@@ -222,7 +225,8 @@
         "محضر المناقشة والقرارات",
         "سجل ربط الأدلة بالرقم P2.1-T04",
         "رابط النسخة النهائية الخاصة بالمهمة P2.1-T04"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_1-T04_Evidence_Template.docx"
     },
     {
       "id": "P2.1-T05",
@@ -260,7 +264,8 @@
         "مستخرج قرار الاعتماد",
         "سجل ربط الأدلة بالرقم P2.1-T05",
         "رابط النسخة النهائية الخاصة بالمهمة P2.1-T05"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_1-T05_Evidence_Template.docx"
     },
     {
       "id": "P2.2-T01",
@@ -299,7 +304,8 @@
         "محضر إغلاق الملاحظات",
         "سجل ربط الأدلة بالرقم P2.2-T01",
         "رابط النسخة النهائية الخاصة بالمهمة P2.2-T01"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_2-T01_Evidence_Template.docx"
     },
     {
       "id": "P2.2-T02",
@@ -337,7 +343,8 @@
         "الصياغة النهائية المعتمدة",
         "سجل ربط الأدلة بالرقم P2.2-T02",
         "رابط النسخة النهائية الخاصة بالمهمة P2.2-T02"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_2-T02_Evidence_Template.docx"
     },
     {
       "id": "P2.2-T03",
@@ -374,7 +381,8 @@
         "مصفوفة الارتباط بالأهداف",
         "سجل ربط الأدلة بالرقم P2.2-T03",
         "رابط النسخة النهائية الخاصة بالمهمة P2.2-T03"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_2-T03_Evidence_Template.docx"
     },
     {
       "id": "P2.2-T04",
@@ -412,7 +420,8 @@
         "محضر أو قرار اعتماد الناتج",
         "سجل ربط الأدلة بالرقم P2.2-T04",
         "رابط النسخة النهائية الخاصة بالمهمة P2.2-T04"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_2-T04_Evidence_Template.docx"
     },
     {
       "id": "P2.2-T05",
@@ -450,7 +459,8 @@
         "مستخرج قرار الاعتماد",
         "سجل ربط الأدلة بالرقم P2.2-T05",
         "رابط النسخة النهائية الخاصة بالمهمة P2.2-T05"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_2-T05_Evidence_Template.docx"
     },
     {
       "id": "P2.3-T01",
@@ -487,7 +497,8 @@
         "تقرير النتائج والفجوات والتوصيات",
         "سجل ربط الأدلة بالرقم P2.3-T01",
         "رابط النسخة النهائية الخاصة بالمهمة P2.3-T01"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_3-T01_Evidence_Template.docx"
     },
     {
       "id": "P2.3-T02",
@@ -524,7 +535,8 @@
         "تقرير النتائج والفجوات والتوصيات",
         "سجل ربط الأدلة بالرقم P2.3-T02",
         "رابط النسخة النهائية الخاصة بالمهمة P2.3-T02"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_3-T02_Evidence_Template.docx"
     },
     {
       "id": "P2.3-T03",
@@ -561,7 +573,8 @@
         "تقرير النتائج والفجوات والتوصيات",
         "سجل ربط الأدلة بالرقم P2.3-T03",
         "رابط النسخة النهائية الخاصة بالمهمة P2.3-T03"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_3-T03_Evidence_Template.docx"
     },
     {
       "id": "P2.3-T04",
@@ -598,7 +611,8 @@
         "تقرير النتائج والفجوات والتوصيات",
         "سجل ربط الأدلة بالرقم P2.3-T04",
         "رابط النسخة النهائية الخاصة بالمهمة P2.3-T04"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_3-T04_Evidence_Template.docx"
     },
     {
       "id": "P2.3-T05",
@@ -635,7 +649,8 @@
         "تقرير النتائج والفجوات والتوصيات",
         "سجل ربط الأدلة بالرقم P2.3-T05",
         "رابط النسخة النهائية الخاصة بالمهمة P2.3-T05"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_3-T05_Evidence_Template.docx"
     },
     {
       "id": "P2.3-T06",
@@ -673,7 +688,8 @@
         "مستخرج قرار الاعتماد",
         "سجل ربط الأدلة بالرقم P2.3-T06",
         "رابط النسخة النهائية الخاصة بالمهمة P2.3-T06"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_3-T06_Evidence_Template.docx"
     },
     {
       "id": "P2.4-T01",
@@ -712,7 +728,8 @@
         "دليل الإعلان والتطبيق",
         "سجل ربط الأدلة بالرقم P2.4-T01",
         "رابط النسخة النهائية الخاصة بالمهمة P2.4-T01"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_4-T01_Evidence_Template.docx"
     },
     {
       "id": "P2.4-T02",
@@ -750,7 +767,8 @@
         "محضر أو قرار اعتماد الناتج",
         "سجل ربط الأدلة بالرقم P2.4-T02",
         "رابط النسخة النهائية الخاصة بالمهمة P2.4-T02"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_4-T02_Evidence_Template.docx"
     },
     {
       "id": "P2.4-T03",
@@ -788,7 +806,8 @@
         "محضر أو قرار اعتماد الناتج",
         "سجل ربط الأدلة بالرقم P2.4-T03",
         "رابط النسخة النهائية الخاصة بالمهمة P2.4-T03"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_4-T03_Evidence_Template.docx"
     },
     {
       "id": "P2.4-T04",
@@ -826,7 +845,8 @@
         "محضر أو قرار اعتماد الناتج",
         "سجل ربط الأدلة بالرقم P2.4-T04",
         "رابط النسخة النهائية الخاصة بالمهمة P2.4-T04"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_4-T04_Evidence_Template.docx"
     },
     {
       "id": "P2.4-T05",
@@ -864,7 +884,8 @@
         "مستخرج قرار الاعتماد",
         "سجل ربط الأدلة بالرقم P2.4-T05",
         "رابط النسخة النهائية الخاصة بالمهمة P2.4-T05"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_4-T05_Evidence_Template.docx"
     },
     {
       "id": "P2.4-T06",
@@ -903,7 +924,8 @@
         "محضر إغلاق الملاحظات",
         "سجل ربط الأدلة بالرقم P2.4-T06",
         "رابط النسخة النهائية الخاصة بالمهمة P2.4-T06"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_4-T06_Evidence_Template.docx"
     },
     {
       "id": "P2.5-T01",
@@ -942,7 +964,8 @@
         "دليل إعلان النسخة المعتمدة",
         "سجل ربط الأدلة بالرقم P2.5-T01",
         "رابط النسخة النهائية الخاصة بالمهمة P2.5-T01"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_5-T01_Evidence_Template.docx"
     },
     {
       "id": "P2.5-T02",
@@ -980,7 +1003,8 @@
         "محضر أو قرار اعتماد الناتج",
         "سجل ربط الأدلة بالرقم P2.5-T02",
         "رابط النسخة النهائية الخاصة بالمهمة P2.5-T02"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_5-T02_Evidence_Template.docx"
     },
     {
       "id": "P2.5-T03",
@@ -1019,7 +1043,8 @@
         "محضر إغلاق الملاحظات",
         "سجل ربط الأدلة بالرقم P2.5-T03",
         "رابط النسخة النهائية الخاصة بالمهمة P2.5-T03"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_5-T03_Evidence_Template.docx"
     },
     {
       "id": "P2.5-T04",
@@ -1058,7 +1083,8 @@
         "دليل إعلان النسخة المعتمدة",
         "سجل ربط الأدلة بالرقم P2.5-T04",
         "رابط النسخة النهائية الخاصة بالمهمة P2.5-T04"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_5-T04_Evidence_Template.docx"
     },
     {
       "id": "P2.5-T05",
@@ -1097,7 +1123,8 @@
         "تقرير تنفيذ التوعية",
         "سجل ربط الأدلة بالرقم P2.5-T05",
         "رابط النسخة النهائية الخاصة بالمهمة P2.5-T05"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_5-T05_Evidence_Template.docx"
     },
     {
       "id": "P2.6-T01",
@@ -1135,7 +1162,8 @@
         "محضر المراجعة الفنية للمصفوفة",
         "سجل ربط الأدلة بالرقم P2.6-T01",
         "رابط النسخة النهائية الخاصة بالمهمة P2.6-T01"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_6-T01_Evidence_Template.docx"
     },
     {
       "id": "P2.6-T02",
@@ -1173,7 +1201,8 @@
         "محضر المراجعة الفنية للمصفوفة",
         "سجل ربط الأدلة بالرقم P2.6-T02",
         "رابط النسخة النهائية الخاصة بالمهمة P2.6-T02"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_6-T02_Evidence_Template.docx"
     },
     {
       "id": "P2.6-T03",
@@ -1211,7 +1240,8 @@
         "محضر المراجعة الفنية للمصفوفة",
         "سجل ربط الأدلة بالرقم P2.6-T03",
         "رابط النسخة النهائية الخاصة بالمهمة P2.6-T03"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_6-T03_Evidence_Template.docx"
     },
     {
       "id": "P2.6-T04",
@@ -1249,7 +1279,8 @@
         "محضر المراجعة الفنية للمصفوفة",
         "سجل ربط الأدلة بالرقم P2.6-T04",
         "رابط النسخة النهائية الخاصة بالمهمة P2.6-T04"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_6-T04_Evidence_Template.docx"
     },
     {
       "id": "P2.6-T05",
@@ -1287,7 +1318,8 @@
         "محضر المراجعة الفنية للمصفوفة",
         "سجل ربط الأدلة بالرقم P2.6-T05",
         "رابط النسخة النهائية الخاصة بالمهمة P2.6-T05"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_6-T05_Evidence_Template.docx"
     },
     {
       "id": "P2.6-T06",
@@ -1324,7 +1356,8 @@
         "تقرير النتائج والفجوات والتوصيات",
         "سجل ربط الأدلة بالرقم P2.6-T06",
         "رابط النسخة النهائية الخاصة بالمهمة P2.6-T06"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_6-T06_Evidence_Template.docx"
     },
     {
       "id": "P2.7-T01",
@@ -1361,7 +1394,8 @@
         "سجل مراجعة اكتمال الحصر",
         "سجل ربط الأدلة بالرقم P2.7-T01",
         "رابط النسخة النهائية الخاصة بالمهمة P2.7-T01"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_7-T01_Evidence_Template.docx"
     },
     {
       "id": "P2.7-T02",
@@ -1400,7 +1434,8 @@
         "دليل إعلان النسخة المعتمدة",
         "سجل ربط الأدلة بالرقم P2.7-T02",
         "رابط النسخة النهائية الخاصة بالمهمة P2.7-T02"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_7-T02_Evidence_Template.docx"
     },
     {
       "id": "P2.7-T03",
@@ -1438,7 +1473,8 @@
         "محضر أو قرار اعتماد الناتج",
         "سجل ربط الأدلة بالرقم P2.7-T03",
         "رابط النسخة النهائية الخاصة بالمهمة P2.7-T03"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_7-T03_Evidence_Template.docx"
     },
     {
       "id": "P2.7-T04",
@@ -1477,7 +1513,8 @@
         "محضر إغلاق الملاحظات",
         "سجل ربط الأدلة بالرقم P2.7-T04",
         "رابط النسخة النهائية الخاصة بالمهمة P2.7-T04"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_7-T04_Evidence_Template.docx"
     },
     {
       "id": "P2.7-T05",
@@ -1515,7 +1552,8 @@
         "مستخرج قرار الاعتماد",
         "سجل ربط الأدلة بالرقم P2.7-T05",
         "رابط النسخة النهائية الخاصة بالمهمة P2.7-T05"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_7-T05_Evidence_Template.docx"
     },
     {
       "id": "P2.8-T01",
@@ -1553,7 +1591,8 @@
         "محضر أو قرار اعتماد الناتج",
         "سجل ربط الأدلة بالرقم P2.8-T01",
         "رابط النسخة النهائية الخاصة بالمهمة P2.8-T01"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_8-T01_Evidence_Template.docx"
     },
     {
       "id": "P2.8-T02",
@@ -1590,7 +1629,8 @@
         "تقرير النتائج والفجوات والتوصيات",
         "سجل ربط الأدلة بالرقم P2.8-T02",
         "رابط النسخة النهائية الخاصة بالمهمة P2.8-T02"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_8-T02_Evidence_Template.docx"
     },
     {
       "id": "P2.8-T03",
@@ -1627,7 +1667,8 @@
         "تقرير النتائج والفجوات والتوصيات",
         "سجل ربط الأدلة بالرقم P2.8-T03",
         "رابط النسخة النهائية الخاصة بالمهمة P2.8-T03"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_8-T03_Evidence_Template.docx"
     },
     {
       "id": "P2.8-T04",
@@ -1665,7 +1706,8 @@
         "محضر المناقشة والقرارات",
         "سجل ربط الأدلة بالرقم P2.8-T04",
         "رابط النسخة النهائية الخاصة بالمهمة P2.8-T04"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_8-T04_Evidence_Template.docx"
     },
     {
       "id": "P2.8-T05",
@@ -1703,7 +1745,8 @@
         "مستخرج قرار الاعتماد",
         "سجل ربط الأدلة بالرقم P2.8-T05",
         "رابط النسخة النهائية الخاصة بالمهمة P2.8-T05"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_8-T05_Evidence_Template.docx"
     },
     {
       "id": "P2.8-T06",
@@ -1741,7 +1784,8 @@
         "تقرير مقارنة النتائج والاستنتاجات",
         "سجل ربط الأدلة بالرقم P2.8-T06",
         "رابط النسخة النهائية الخاصة بالمهمة P2.8-T06"
-      ]
+      ],
+      "evidenceTemplate": "evidence_templates/P2_8-T06_Evidence_Template.docx"
     }
   ],
   "members": [
